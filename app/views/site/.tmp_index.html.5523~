@@ -1,0 +1,35 @@
+<div>
+	<div id="wrapper">
+		<div id="centerColumn">
+			<div class="image" style="height:428px">
+				<a href="/painting/1" ><img src="/images/img1_320.jpg" alt="" title="click for full image" width="320"  /></a>
+			</div>
+			<div class="spacer"></div>
+			<div class="image" style="height:405px">
+				<a href="/painting/2" ><img src="/images/img2_320.jpg" alt="" title="click for full image" width="320" /></a>
+			</div>
+			<div class="spacer"></div>
+		</div>
+	</div>
+	<div id="leftColumn">
+		<div class="image" style="height:241px">
+			<a href="/painting/6" ><img src="/images/img6_320.jpg" alt="" title="click for full image" width="320"  /></a>
+		</div>
+		<div class="spacer"></div>
+		<div class="image" style="height:428px">
+			<a href="/painting/1" ><img src="/images/img1_320.jpg" alt="" title="click for full image" width="320"  /></a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+	<div id="rightColumn">
+		<div class="image" style="height:428px">
+			<a href="/painting/3" ><img src="/images/img3_320.jpg" alt="" title="click for full image" width="320"/></a>
+		</div>
+		<div class="spacer"></div>
+		<div class="image" style="height:428px">
+			<a href="/painting/1"><img src="/images/img1_320.jpg" alt="" title="click for full image" width="320" /></a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+	<div class="clear"></div>
+</div>
